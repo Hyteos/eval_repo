@@ -24,6 +24,7 @@ Test avec /chat
 
 Partie 3:
 
+Création de la branche dev pour test dans mon repository fait.
 
 Test avec pytest
 
