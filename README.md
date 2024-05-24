@@ -31,3 +31,9 @@ Création du fichier test_app.py pour vérifier que le point de terminaison raci
 Test avec pytest
 
 ![alt text](image-5.png)
+
+Partie 4:
+
+Création des secrets Github:
+
+![alt text](image-6.png)
