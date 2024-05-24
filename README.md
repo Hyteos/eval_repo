@@ -23,3 +23,8 @@ Test avec /chat
 ![alt text](image-4.png)
 
 Partie 3:
+
+
+Test avec pytest
+
+![alt text](image-5.png)
