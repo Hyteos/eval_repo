@@ -26,6 +26,8 @@ Partie 3:
 
 Création de la branche dev pour test dans mon repository fait.
 
+Création du fichier test_app.py pour vérifier que le point de terminaison racine (/) retourne un statut HTTP 200 et le message attendu.
+
 Test avec pytest
 
 ![alt text](image-5.png)
