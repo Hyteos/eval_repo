@@ -21,3 +21,5 @@ docker run -d -p 8000:8000 fastapi-groq-app
 Test avec /chat
 
 ![alt text](image-4.png)
+
+Partie 3:
