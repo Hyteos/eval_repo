@@ -13,5 +13,6 @@ Test en local
 Partie 2:
 
 docker build -t fastapi-groq-app .
+
 docker run -d -p 8000:8000 fastapi-groq-app
 
