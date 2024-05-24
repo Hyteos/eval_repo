@@ -8,7 +8,7 @@ GROQ_API_URL = "https://console.groq.com/keys"  # Remplacez par l'URL de l'API G
 
 @app.get("/")
 def read_root():
-    return {"message": "Welcome to the Groq API tester"}
+    return {"message": "Voici mon Groq API tester"}
 
 @app.get("/test-groq-api")
 def test_groq_api():
