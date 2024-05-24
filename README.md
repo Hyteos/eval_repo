@@ -37,3 +37,7 @@ Partie 4:
 Création des secrets Github:
 
 ![alt text](image-6.png)
+
+Mon workflow a un problème car je ne connais plus mon mdp donc j'ai  l'erreur pour me connecter dessus.
+
+![alt text](image-7.png)
